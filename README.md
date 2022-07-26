@@ -1,5 +1,10 @@
 # Generating Deontic Obligations From Utility-Maximizing Systems
 This repository contains the code used for model checking and search in the paper submitted to AIES 2022.
+
+The paper can be found at https://web.engr.oregonstate.edu/~sheablyc/assets/docs/Generating_Obligations-Final_Author_Version.pdf
+
+And a presentation of this research can be seen at https://web.engr.oregonstate.edu/~sheablyc/assets/docs/AIES22-fp116.mp4
+
 The code is offered as-is, and should be recognized as a preliminary offering for review and replication purposes only - not as a unitary package for use in future research or production.
 
 ## Requirements
